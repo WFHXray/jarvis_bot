@@ -24,6 +24,8 @@ def main(message_object):
                             "My sources say no.",
                             "Outlook not so good.",
                             "Very doubtful."
+                            "gtg"
+                            "Fuck off."
                             ]
         text = choice(possible_responses)
         return text, None
